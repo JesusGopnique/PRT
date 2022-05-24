@@ -1,0 +1,7 @@
+ID: FI1
+Title: Incorrect text with information about a site
+Preconditions: 1) Site opened
+Steps: 1) Go to Section "Information" 2) Open any section on the page "Information"
+Actual Result: The Language of the Text is Latin. Dosn't contain any Information about the Site
+Expected Result: The Text in English and contain Information about the Site
+Severity: Medium
