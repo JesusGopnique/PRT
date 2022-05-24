@@ -1,0 +1,9 @@
+Module            Test Discription                                       Status
+
+Header            Press the "Home" button to refresh the page            Passed
+
+Header            Open the Form "Regional Sttengs"                       Passed
+
+Header/RS         Change the inteface language                           Failed
+
+Header/RS         Change the Currency                                    Failed
